@@ -1,0 +1,1 @@
+cmd_/home/cs695/new/23m0761_assignment1/3/modules.order := {   echo /home/cs695/new/23m0761_assignment1/3/get_pgfaults.ko;   echo /home/cs695/new/23m0761_assignment1/3/hello_procfs.ko; :; } > /home/cs695/new/23m0761_assignment1/3/modules.order

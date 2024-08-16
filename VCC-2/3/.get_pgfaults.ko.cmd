@@ -1,0 +1,1 @@
+cmd_/home/cs695/new/23m0761_assignment1/3/get_pgfaults.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/cs695/new/23m0761_assignment1/3/get_pgfaults.ko /home/cs695/new/23m0761_assignment1/3/get_pgfaults.o /home/cs695/new/23m0761_assignment1/3/get_pgfaults.mod.o;  true
